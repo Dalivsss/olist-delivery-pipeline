@@ -1,0 +1,8 @@
+pandas
+google-cloud-bigquery
+pyarrow
+dbt-core==1.12.6
+dbt-bigquery==1.12.2
+scikit-learn
+xgboost
+jupyter
