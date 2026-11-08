@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data (downloaded from Kaggle, never committed)
+data/
+
+# Secrets: service account keys
+*-key.json
+*sa-key*.json
+
+# dbt generated files
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+logs/
